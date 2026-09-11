@@ -320,11 +320,10 @@ The goal is to convert processed data into actionable business insights.
 
 ### Team Members
 
+* **Youssef Mohamed**
+* **Hamza Mahmoud**
 * **Abdullah emad**
-* **Hamza Mahmoud **
-* **Youssef Mohamed  **
 * **Omar Fathy**
-
 ---
 
 ## 📈 Final Result
